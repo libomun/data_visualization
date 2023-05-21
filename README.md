@@ -9,13 +9,24 @@ They have provided you with three data sets (landscaping.csv, employees.csv and 
 
 ## Visualization 1
 ### Bar plot(explanatory visualization that contains derived data types)
-This Bar plot shows the total profit of the top 5 most profitable job type. (profit =invoice_amount -material_costs).![image.png](attachment:image.png)
+This Bar plot shows the total profit of the top 5 most profitable job type. (profit =invoice_amount -material_costs).
+
+![1421684675127_ pic](https://github.com/libomun/data_visualization/assets/99610621/bce9cab9-6b5e-4acf-a090-c84bcfc0660f)
+
 ## Visualization 2
 ### Box plot(exploratory visualization with interactive elements)
-This box plot shows customer satisfaction distribution for the top 5 most profitable job type in this company. This is interactive visualization. An interactive dropdown menu allows for the data to be filtered around the customer type. The “Residential” option filters to residential customer, “Commercial” filters to commercial customer, and “All’ applies no filtering.![image.png](attachment:image.png)
+This box plot shows customer satisfaction distribution for the top 5 most profitable job type in this company. This is interactive visualization. An interactive dropdown menu allows for the data to be filtered around the customer type. The “Residential” option filters to residential customer, “Commercial” filters to commercial customer, and “All’ applies no filtering.
+
+![WeChat37ee495fff9b68ce6fe4a93b964830db](https://github.com/libomun/data_visualization/assets/99610621/b5dc3412-2bf8-409c-9027-1e1b8bdf8bcb)
+
 ## Visualization 3
 ### Heat map(exploratory visualization) 
-This heatmap shows the average satisfaction of customer relative to their customer type and the top 5 most in-demand jobs.![image-3.png](attachment:image-3.png)
+This heatmap shows the average satisfaction of customer relative to their customer type and the top 5 most in-demand jobs.
+
+![1431684675127_ pic](https://github.com/libomun/data_visualization/assets/99610621/a7b4f670-99bb-4e07-b56c-2c999c9cfed5)
+
 ## Visualization 4
 ### Line plot(explanatory visualization)
-This plot shows the monthly job demand trend for each job type in 2022.![image-2.png](attachment:image-2.png)
+This plot shows the monthly job demand trend for each job type in 2022.
+
+![1441684675127_ pic](https://github.com/libomun/data_visualization/assets/99610621/10e1c306-4539-4699-89bd-93fcce26a85b)
